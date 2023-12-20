@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "189732424490",
+    "project_id": "unitytrpogame",
+    "storage_bucket": "unitytrpogame.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189732424490:android:3aff89deff1e3174b9ec53",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.TRPO_Project003"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxQ-NUl4ZKdSfvOgdPooXiKYI8u29wg2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
